@@ -1,0 +1,25 @@
+/**
+ * @Author: xiaojiezhang
+ * @Date:   2018-08-20T21:52:39-04:00
+ * @Last modified by:   xiaojiezhang
+ * @Last modified time: 2018-08-21T10:27:52-04:00
+ */
+
+
+
+.App {
+  text-align: center;
+}
+.center{
+  display:flex;
+  justify-content: center;
+}
+
+.particles{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:-1;
+}
